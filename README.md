@@ -1,8 +1,8 @@
-# 💻 Pawarit Ratana-aneckchai
+# Pawarit Ratana-aneckchai
 
-🎓 Junior in Computer Engineering and Digital Technology  
-🏫 Chulalongkorn University | 📍 Bangkok, Thailand  
-📬 pan51597@gmail.com  
+Junior in Computer Engineering and Digital Technology  
+Chulalongkorn University  
+pan51597@gmail.com  
 
 ---
 
@@ -34,8 +34,8 @@
 ---
 
 ## 🛠️ Tech Stack  
-**Languages:** C, C++, Python, JavaScript, HTML/CSS, Java, dart  
-**Frameworks:** Node.js, TypeScript, Flutter ,React  
+**Languages:** C, C++, Python, JavaScript, TypeScript, HTML/CSS, Java, dart  
+**Frameworks:** Node.js, Flutter, React  
 **Tools:** MongoDB, Apache Spark, Streamlit, AWS EC2, Vercel, Power BI  
 
 ---
